@@ -51,17 +51,16 @@ Tools:       Git • GitHub • VS Code • Figma • Logic Pro • Ableton Live
 ## 📣 Let's Connect!
 
 <p align="left">
-  <a href="https://github.com/YOUR-USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-PROFILE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dakuma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://soundcloud.com/YOUR-SOUNDCLOUD" target="_blank"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-ff7700?style=flat&logo=soundcloud&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="Neo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dakuma&show_icons=true&theme=tokyonight" alt="Neo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakuma&theme=tokyonight" />
 </p>
