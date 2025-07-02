@@ -26,7 +26,7 @@
 ```bash
 Languages:   JavaScript • Swift • HTML/CSS • Markdown
 Frameworks:  Node.js • SwiftUI • Express • Adobe XD • Illustrator • Photoshop
-Tools:       Git • GitHub • VS Code • Figma • Logic Pro • Ableton Live
+Tools:       Git • GitHub • VS Code • Figma • FL Studio Gang!
 ````
 
 ---
