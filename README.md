@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+![background1](https://github.com/user-attachments/assets/eb0e7a7d-1505-4894-b3c9-27bd36b2a8da)
 ## 🚀 About Me
 
 - 👨‍🏫 I'm a developer and educator passionate about teaching **JavaScript**, **Swift**, **UI/UX**, and **version control**.
