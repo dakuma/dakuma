@@ -20,6 +20,9 @@
 
 ---
 
+![record](https://github.com/user-attachments/assets/b19c6a3a-203b-4e1b-a852-d8ec97de95d2)
+
+
 ## 🛠 Tech Stack
 
 ```bash
