@@ -1,5 +1,4 @@
 <!-- GitHub Profile README for Neo -->
-![background2](https://github.com/user-attachments/assets/8a7e0d6e-b02a-48ab-aaa5-2a5139b749b1)
 <h1 align="center">Hey there, I'm Neo 👾</h1>
 <p align="center">
   <i>Ancient Alien | Developer | Music Artist | Teacher of Code</i>
