@@ -1,11 +1,10 @@
 <!-- GitHub Profile README for Neo -->
 <h1 align="center">Hey there, I'm Neo 👾</h1>
 <p align="center">
-  <i>Ancient Alien | Developer | Music Artist | Teacher of Code</i>
+  <i>Developer | Music Producer | Teacher of Code | Gamer</i>
 </p>
 
-
-![raining](https://github.com/user-attachments/assets/4a0b0e9f-3234-4b07-9aa2-fb443234e510)
+<i>![raining](https://github.com/user-attachments/assets/4a0b0e9f-3234-4b07-9aa2-fb443234e510)</i>
 
 ## 🚀 About Me
 
