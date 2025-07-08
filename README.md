@@ -4,7 +4,7 @@
   <i>Ancient Alien | Developer | Music Artist | Teacher of Code</i>
 </p>
 
-![cat](https://github.com/user-attachments/assets/fe35bf95-40c4-42a5-b816-ec4bd5a66d53)
+<span align="center">![cat](https://github.com/user-attachments/assets/fe35bf95-40c4-42a5-b816-ec4bd5a66d53)</span>
 
 ## 🚀 About Me
 
