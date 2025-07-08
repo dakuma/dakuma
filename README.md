@@ -4,12 +4,8 @@
   <i>Ancient Alien | Developer | Music Artist | Teacher of Code</i>
 </p>
 
-<p align="center">
-  ![cat](https://github.com/user-attachments/assets/fe35bf95-40c4-42a5-b816-ec4bd5a66d53)
-</p>
+![cat](https://github.com/user-attachments/assets/fe35bf95-40c4-42a5-b816-ec4bd5a66d53)
 
----
-![background1](https://github.com/user-attachments/assets/eb0e7a7d-1505-4894-b3c9-27bd36b2a8da)
 ## 🚀 About Me
 
 - 👨‍🏫 I'm a developer and educator passionate about teaching **JavaScript**, **Swift**, **UI/UX**, and **version control**.
