@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  [animatedLogo9](https://github.com/user-attachments/assets/5dc2de60-941f-4476-a8ed-29178d28b3ad)
+  ![cat](https://github.com/user-attachments/assets/fe35bf95-40c4-42a5-b816-ec4bd5a66d53)
 </p>
 
 ---
