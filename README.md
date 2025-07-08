@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Create.+Conquer.+Dance." alt="Typing SVG" />
+  ![animatedLogo9](https://github.com/user-attachments/assets/5dc2de60-941f-4476-a8ed-29178d28b3ad)
 </p>
 
 ---
