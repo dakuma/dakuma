@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  ![animatedLogo9](https://github.com/user-attachments/assets/5dc2de60-941f-4476-a8ed-29178d28b3ad)
+  [animatedLogo9](https://github.com/user-attachments/assets/5dc2de60-941f-4476-a8ed-29178d28b3ad)
 </p>
 
 ---
