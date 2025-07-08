@@ -4,9 +4,9 @@
   <i>Ancient Alien | Developer | Music Artist | Teacher of Code</i>
 </p>
 
-<div align="center">
-  ![raining](https://github.com/user-attachments/assets/4a0b0e9f-3234-4b07-9aa2-fb443234e510)
-</div>
+
+![raining](https://github.com/user-attachments/assets/4a0b0e9f-3234-4b07-9aa2-fb443234e510)
+
 ## 🚀 About Me
 
 - 👨‍🏫 I'm a developer and educator passionate about teaching **JavaScript**, **Swift**, **UI/UX**, and **version control**.
