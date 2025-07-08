@@ -1,5 +1,5 @@
 <!-- GitHub Profile README for Neo -->
-<h1 align="center">Hey there, I'm Neo 👾</h1>
+<h1 align="center">Hey there, I'm Dakuma 👾</h1>
 <p align="center">
   <i>Developer | Music Producer | Teacher of Code | Gamer</i>
 </p>
