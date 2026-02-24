@@ -32,7 +32,7 @@ Tools:       Git • GitHub • VS Code • Figma • FL Studio Gang!
 ## 📦 Projects & Features
 
 * 💻 **Code Classroom Tools** – Simple and clean examples to teach JavaScript OOP, Swift protocols, and UI/UX basics.
-* 🎵 **Artist Pages** – Sleek, animated websites for **Dakuma**, **The Flash**, and **Dangerous Dano**.
+* 🎵 **Artist Pages** – Sleek, animated websites for **Dakuma**.
 * 🧪 **Website Prelaunch Checklist** – Interactive JS checklist app with tooltips and drag-and-drop features.
 * 🏎 **Revvers Motorsport** – Logo and branding concept for high-performance motor parts.
 
