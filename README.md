@@ -56,9 +56,5 @@ Tools:       Git • GitHub • VS Code • Figma • FL Studio Gang!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakuma&show_icons=true&theme=tokyonight" alt="Neo's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakuma&theme=tokyonight" />
 </p>
