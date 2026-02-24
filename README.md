@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 👨‍🏫 I'm a developer and educator passionate about teaching **JavaScript**, **Swift**, **UI/UX**, and **version control**.
-- 🎵 I also produce **Trance, Techno**, and **Downtempo/Pop** under the aliases **The Flash**, **Dakuma**, and **Dangerous Dano**.
+- 🎵 I also produce **Trance, Techno**, and **Downtempo/Pop** under the alias **Dakuma.**
 - 🧹 I run a vacuum cleaning company in London called **VacuumQuest** (18 years strong!).
 - 🤖 I'm the mind behind fictional tech like **Falcon Robotics** and music like _"Puppet on a String"_, _"Just Vibe"_, and _"Your Voice (is stuck in my head)"_.
 - 🕹 Big fan of **Xbox**, **movies**, and anything Scarlett Johansson.
