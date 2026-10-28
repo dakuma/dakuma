@@ -6,7 +6,7 @@
 
 <i>![raining](https://github.com/user-attachments/assets/4a0b0e9f-3234-4b07-9aa2-fb443234e510)</i>
 
-## 🚀 About Me (for now)
+## 🚀 About Me (for now and maybe forever...)
 
 - 👨‍🏫 I'm a developer and educator passionate about teaching **JavaScript**, **Swift**, **UI/UX**, and **version control**.
 - 🎵 I also produce **Trance, Techno**, and **Downtempo/Pop** under the alias **Dakuma.**
